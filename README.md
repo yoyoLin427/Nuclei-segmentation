@@ -40,7 +40,6 @@ if you want to try this file, please change the file path in code
 pre-train model: "COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml" in model zoo
 
 Hyperparameters:
-* Learning algorithm: Stochastic Gradient Descent (SGD)
 * Batch size: 2
 * Learning rate: 0.00025
 * The number of iterations: 20000 
