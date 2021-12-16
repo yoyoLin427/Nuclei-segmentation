@@ -1,6 +1,4 @@
 # Nuclei-segmentation
-Nuclei segmentation
-
 This repository is related to the [Selected Topics in Visual Recognition using Deep Learning Homework 3](https://docs.google.com/presentation/d/1AO3PtF3oJF1J0VzeowVpUhW50i9CEWHPTcvOYzx5waE/edit#slide=id.gfd55e7c5d5_0_0).
 
 Nuclear segmentation dataset contains 24 training images with 14,598 nuclear and 6 test images with 2,360 nuclear 
